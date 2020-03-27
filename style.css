@@ -13,7 +13,7 @@ button {
 	background-color: #a09a9a;
 	border: none;
 	border-radius: 12px;
-	box-shadow: 0 3px #999;
+	box-shadow: 0 5px #999;
 }
 
 button:hover {
@@ -21,10 +21,27 @@ button:hover {
 }
 
 button:active {
-	background-color: #f4f4f4;
+	background-color: #d4d0d0;
 	box-shadow: 0 3px rgb(77, 74, 74);
 	transform: translateY(4px);
 }
+input {
+	padding: 5px 19px;
+	font-size: 14px;
+	cursor: pointer;
+	text-align: center;
+	background-color: #eff1f1;
+	border: 2px solid rgb(132, 132, 133);
+	border-radius: 12px;
+}
+
 div {
 	margin-top: 7px;
+}
+.userInterface {
+	margin-top: 5vh;
+}
+.userInterface button {
+	padding: 1px 13px;
+	margin: 7px;
 }
