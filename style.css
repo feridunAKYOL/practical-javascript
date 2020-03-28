@@ -1,10 +1,11 @@
 html {
 	background-color: #f4f4f4;
-	text-align: center;
+	margin-left: 30vw;
 }
 button {
 	display: inline-block;
 	padding: 5px 19px;
+	margin-right: .5vw;
 	font-size: 14px;
 	cursor: pointer;
 	text-align: center;
@@ -13,7 +14,7 @@ button {
 	color: rgb(248, 240, 240);
 	background-color: #3b3b3d;
 	border: none;
-	border-radius: 12px;
+	border-radius: 5px;
 	box-shadow: 0 5px rgb(175, 177, 179);
 }
 
@@ -33,7 +34,7 @@ input {
 	text-align: center;
 	background-color: #eff1f1;
 	border: 2px solid rgb(132, 132, 133);
-	border-radius: 12px;
+	border-radius: 5px;
 }
 
 div {
