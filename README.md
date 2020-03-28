@@ -3,7 +3,7 @@
 In this project we build a todo list webpage.
 In the program someone can store what to do and also can change the todo list.. besides he/she toggle one todo or all todos..
 when entered an todo, he/she can delete todo whenever he want. this is basic of the webpage.
-##### Try the live demo right [here](https://feridunakyol.github.io/drum-kit/) , it looks something like this:
+##### Try the live demo right [here](https://feridunakyol.github.io/practical-javascript/) , it looks something like this:
 ![](.png)
 The main aim is review the javaScript lessons. In fact this practical-Javascript lessons are basic for javaScript. It is good for someone who try to learn JavaScript and he just started. 
 #### INSPIRATION
