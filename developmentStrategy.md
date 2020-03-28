@@ -19,7 +19,8 @@ when the user enter any data user can see the item with `( )` and `delete` butto
 ---------------------------------------------------------------
 ## 3. User Story: Change Todo  
 a user can change any item. Sometimes user may want to change todo list. So he should write the `index` of todo and new item.
-As you see user should know the coding a bit :smiley: for example to select the first element he should enter number 0..
+As you see user should know the coding a bit :smiley: .  
+for example to select the first element he should enter number 0..
 In fact this is a discussion in mathematics. numbers begin from `0` or `1`.
 
 ---------------------------------
