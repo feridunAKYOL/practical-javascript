@@ -5,23 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Practical-Javascript</title>
     <link rel="stylesheet" href="./style.css">
+    <script src="./handlers/handlers.js"></script>
+    <script src="./logic/logic.js"></script>
 </head>
 <body>
     <h1>Todo List</h1>
     <div>
-        <button onclick="handlers.toggleAll()">Toggle All</button>
+        <button id = 'toggleAll'>Toggle All</button>
     </div>
     <div>
-        <button onclick="handlers.addTodo()">Add</button>
+        <button id="addTodo">Add</button>
         <input id="addTodoTextInput" type="text">
     </div>
     <div>
-        <button onclick="handlers.changeTodo()">Change Todo</button>
+        <button id="changeTodo">Change Todo</button>
         <input id="changeTodoPositionInput" type="number">
         <input id="changeTodoTextInput" type="text">
     </div>
     <div>
-        <button onclick="handlers.toggleCompleted()">Toggle Completed</button>
+        <button id="toggleCompleted">Toggle Completed</button>
         <input id="toggleCompletedPositionInput" type="number">
     </div>
     <div class="userInterface">
@@ -29,6 +31,6 @@
 
         </ul>
     </div>
-    <script src="./versions/version-10.js"></script>
+    <script src="./listeners/listener.js"></script>
 </body>
 </html>
